@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/classLoader/classLoader.iml" filepath="$PROJECT_DIR$/classLoader/classLoader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvm/jvm.iml" filepath="$PROJECT_DIR$/jvm/jvm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threadpool/threadpool.iml" filepath="$PROJECT_DIR$/threadpool/threadpool.iml" />
     </modules>
   </component>
 </project>
